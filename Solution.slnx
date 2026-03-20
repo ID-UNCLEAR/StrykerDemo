@@ -4,6 +4,7 @@
     <File Path="dotnet-tools.json" />
     <File Path="LICENSE" />
     <File Path="README.md" />
+    <File Path="TOOLS.md" />
   </Folder>
   <Project Path="Library.UnitTests/Library.UnitTests.csproj" />
   <Project Path="Library/Library.csproj" />
